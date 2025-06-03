@@ -1,4 +1,4 @@
 ---
-title: "雑記"
+title: "記事"
 weight: 100
 ---
