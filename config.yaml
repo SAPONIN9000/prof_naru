@@ -28,7 +28,7 @@ params:
   profile:
     name: "なるみき/さぽにん"
     #tagline: Title
-    location: <small>"icon:ありおじさん"</small>
+    location: icon:ありおじさん
     photo: profile.png
   social:
     title: Links
@@ -39,12 +39,12 @@ params:
       - icon: fas fa-external-link-alt
         url: "https://live-theater.net/@narumiki"
         title: LTN
-      - icon: fa-brands fa-bluesky 
+      - icon: fab fa-bluesky 
         url: "https://bsky.app/profile/saponin9000.bsky.social"
         title: Bluesky
-      # - icon: 
-      #   url: 
-      #   title: 
+      - icon: fab fa-twitter
+        url: "https://x.com/narumiki_765"
+        title: Twitter
   showInAccordion:
     - item: aboutme
       expand: true
@@ -80,6 +80,7 @@ params:
             - 北上麗花 [698位]
           - 2024/8/31 - 9/8 · わたしは花、あなたは太陽 [359位]
           - 2024/11/30 - 12/7 · ギブミーメタファー [1297位]
+          - 2025/5/31 - 6/7 · U・N・M・E・Iライブ[2167位]
   # education:
   #   title: Education
   #   icon: fas fa-graduation-cap

@@ -3,7 +3,7 @@ author = "Darshan Baral"
 title = "Demo Page"
 date = "2022-11-19"
 description = "Sample article showcasing formatting for HTML elements."
-draft = true
+draft = false
 tags = [
     "markdown",
     "css",
