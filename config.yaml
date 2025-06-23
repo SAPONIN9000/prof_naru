@@ -4,6 +4,13 @@ baseURL: https://prof-naru.pages.dev/
 languageCode: en-us
 build:
   writeStats: true
+  enablePostCSS: true
+  postcss:
+    config: "postcss.config.js"
+    options:
+      parser: postcss-scss
+      map: true
+      sourceMap: true
 params:
   title: なるみき-Profile-
   author: narumiki
