@@ -56,8 +56,8 @@ draft: false
 2025/6/14 | 中村温姫 BIRTHDAY EVENT 2025 | 東京アニメ・声優&eスポーツ専門学校 | 昼・夜の部参加 |
 2025/6/15 | 中村温姫を世界で一番早く祝う会　| 新宿ロフトプラスワン | オールナイトイベント |
 2025/6/22 | キノコ音学校 | Yokohama mint hall | 両部参加 |
-<!-- 2025/6/29 | IDOL STAR FESTIV@L 14 | 東京流通センター 第一展示場 | 即売会 |
-2025/7/12 | 夏川椎菜 Revenge LIVE reMAKEOVER | Zepp Haneda |  |
+2025/6/29 | IDOL STAR FESTIV@L 14 | 東京流通センター 第一展示場 | 即売会 |
+<!-- 2025/7/12 | 夏川椎菜 Revenge LIVE reMAKEOVER | Zepp Haneda |  |
 2025/7/13 | リスアニ！ナツヤスミ！ | パシフィコ横浜 国立大ホール |  |
 2025/8/15 | NAOTO 20th Anniversary Live「SERENDIPITY」| 東京国際フォーラム | | -->
 
