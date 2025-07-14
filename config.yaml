@@ -127,6 +127,13 @@ params:
         at: 両日参加
         type: ライブ
       - title: >-
+          リスアニ！LIVE 2025 ナツヤスミ
+        date: "2025/7/13"
+        Venue: "パシフィコ横浜 国立大ホール"
+        url: "https://www.lisani.jp/live-special/"
+        at: "SUNDAY STAGE参加"
+        type: ライブ
+      - title: >-
           THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-4 MILLION THE@TER!!!! 
         date: "2024/2/24・2/25"
         Venue: "Kアリーナ横浜"
