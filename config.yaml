@@ -137,6 +137,13 @@ params:
         url: "https://www.lisani.jp/live-special/"
         at: "SUNDAY STAGE参加"
         type: ライブ
+      - title: >-
+          THE IDOLM@STER 20th anniversary ORCHESTRA CONCERT SYMPHONY OF BRILLIANT STARS
+        date: "2025/7/21"
+        Venue: "パシフィコ横浜 国立大ホール"
+        url: "https://idolmaster-official.jp/live_event/orchestra_concert_2025/#news_20250116"
+        at: "昼公演配信・夜公演現地参加"
+        type: ライブ
       # - title: >-
       #     THE IDOLM@STER 765PRO ALLSTARS LIVE ～NEVER END IDOL!!!!!!!!!!!!!～
       #   date: "2025/8/2・8/3"
@@ -164,6 +171,13 @@ params:
         Venue: "立川ステージガーデン"
         type: イベント
         at: 昼の部・夜の部
+      - title: >-
+          THE IDOLM@STER 20th anniversary special party アイ MUST GO ON!! これからもアイマスですよ！20th特別生配信
+        date: "2025/7/26"
+        Venue: "森のホール21(松戸市文化会館)大ホール"
+        url: "https://idolmaster-official.jp/live_event/20th_anniversary_event/"
+        type: イベント
+        at: 現地観覧参加
       - title: >-
           THE IDOLM@STER MILLION C@STING 01 解夏傀儡 & 02 エンダーエンダー購入者限定合同朗読イベント
         date: "2024/5/5"
