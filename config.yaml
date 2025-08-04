@@ -89,9 +89,9 @@ params:
           - 2024/11/30 - 12/7 · ギブミーメタファー [1297位]
           - 2025/5/31 - 6/7 · U・N・M・E・Iライブ[2167位]
           - 2025/6/29 - 7/12 超々∞MUGEND@I![6304位]
-            -春日未来 [399位]
-            -ロコ [486位]
-            -北上麗花 [434位]
+            - 春日未来 [399位]
+            - ロコ [486位]
+            - 北上麗花 [434位]
   # education:
   #   title: Education
   #   icon: fas fa-graduation-cap
@@ -144,13 +144,13 @@ params:
         url: "https://idolmaster-official.jp/live_event/orchestra_concert_2025/#news_20250116"
         at: "昼公演配信・夜公演現地参加"
         type: ライブ
-      # - title: >-
-      #     THE IDOLM@STER 765PRO ALLSTARS LIVE ～NEVER END IDOL!!!!!!!!!!!!!～
-      #   date: "2025/8/2・8/3"
-      #   Venue: "Kアリーナ横浜"
-      #   url: "https://idolmaster-official.jp/live_event/765_never_end_idol/"
-      #   at: "両日参加"
-      #   type: ライブ
+      - title: >-
+          THE IDOLM@STER 765PRO ALLSTARS LIVE ～NEVER END IDOL!!!!!!!!!!!!!～
+        date: "2025/8/2・8/3"
+        Venue: "Kアリーナ横浜"
+        url: "https://idolmaster-official.jp/live_event/765_never_end_idol/"
+        at: "両日参加"
+        type: ライブ
       - title: >-
           THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-4 MILLION THE@TER!!!! 
         date: "2024/2/24・2/25"
