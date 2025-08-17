@@ -59,8 +59,8 @@ draft: false
 2025/6/29 | IDOL STAR FESTIV@L 14 | 東京流通センター 第一展示場 | 即売会 |
 2025/7/12 | 夏川椎菜 Revenge LIVE reMAKEOVER | Zepp Haneda |  |
 2025/7/19 | あつきとゆうやのお悩み相談会 | LOFT9 Shibuya | |
-<!-- 2025/8/15 | NAOTO 20th Anniversary Live「SERENDIPITY」| 東京国際フォーラム | |
-2025/9/27 | Akimitsu Homma 60th anniversary concert “RESONANCE” | 東京ガーデンシアター | |
+2025/8/15 | NAOTO 20th Anniversary Live「SERENDIPITY」| 東京国際フォーラム | |
+<!-- 2025/9/27 | Akimitsu Homma 60th anniversary concert “RESONANCE” | 東京ガーデンシアター | |
 2025/9/30 | FANCLUB UNDERWORLD 6 | KT Zepp Yokohama | |
 2025/10/29 | FANCLUB UNDERWORLD 6 | Zepp Haneda | | 
 2025/10/23 | YUZU LIVE 2025 GET BACK トビラ | 有明アリーナ | | -->
