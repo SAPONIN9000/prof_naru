@@ -11,5 +11,5 @@ draft: true
 
 | パーツ名 | Spec | 備考 |
 | --- | --- | --- |
-| a | | aiue | | aaa |
+| Ryzen 7 7900X | | aiue | | aaa |
 |aiueo|
