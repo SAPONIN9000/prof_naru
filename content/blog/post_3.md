@@ -63,4 +63,5 @@ draft: false
 <!-- 2025/9/27 | Akimitsu Homma 60th anniversary concert “RESONANCE” | 東京ガーデンシアター | |
 2025/9/30 | FANCLUB UNDERWORLD 6 | KT Zepp Yokohama | |
 2025/10/29 | FANCLUB UNDERWORLD 6 | Zepp Haneda | | 
-2025/10/23 | YUZU LIVE 2025 GET BACK トビラ | 有明アリーナ | | -->
+2025/10/23 | YUZU LIVE 2025 GET BACK トビラ | 有明アリーナ | |
+2025/12/28・29・31 | みなとみらいロマンスポルノ THE OVER | ぴあアリーナMM | | -->
