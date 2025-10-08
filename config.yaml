@@ -151,13 +151,13 @@ params:
         url: "https://idolmaster-official.jp/live_event/765_never_end_idol/"
         at: "両日参加"
         type: ライブ
-      # - title: >-
-      #     THE IDOLM@STER MILLION LIVE! 12thLIVE DAY1 ありのままに。/DAY2 Let’s Sing!
-      #   date: "2025/10/11・10/12"
-      #   Venue: "京王アリーナTOKYO(武蔵野の森スポーツプラザ)"
-      #   url: "https://idolmaster-official.jp/live_event/million12th/"
-      #   at: "両日参加"
-      #   type: ライブ
+      - title: >-
+          THE IDOLM@STER MILLION LIVE! 12thLIVE DAY1 ありのままに。/DAY2 Let’s Sing!
+        date: "2025/10/11・10/12"
+        Venue: "京王アリーナTOKYO(武蔵野の森スポーツプラザ)"
+        url: "https://idolmaster-official.jp/live_event/million12th/"
+        at: "両日参加"
+        type: ライブ
       # - title: >-
       #     THE IDOLM@STER M@STERS OF IDOL WORLD 2025
       #   date: "2025/12/13・12/14"
@@ -165,6 +165,12 @@ params:
       #   url: "https://idolmaster-official.jp/live_event/idolworld2025/"
       #   at: "両日参加"
       #   type: ライブ
+      # - title: >-
+      #     THE IDOLM@STER MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!/DAY2 百合咲き誇るレムリア
+      #     date: "2026/3/14・3/15"
+      #     Venue: "西日本メッセ(西日本総合展示場)新館"
+      #     url: "https://idolmaster-official.jp/live_event/million11th/"
+      #     at: "両日参加"
       - title: >-
           THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-4 MILLION THE@TER!!!! 
         date: "2024/2/24・2/25"
