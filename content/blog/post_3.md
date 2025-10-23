@@ -62,8 +62,9 @@ draft: false
 2025/8/15 | NAOTO 20th Anniversary Live「SERENDIPITY」| 東京国際フォーラム | |
 2025/9/27 | Akimitsu Homma 60th anniversary concert “RESONANCE” | 東京ガーデンシアター | |
 2025/9/30 | FANCLUB UNDERWORLD 6 | KT Zepp Yokohama | 夜公演 |
+2025/10/23 | YUZU LIVE 2025 GET BACK トビラ | 有明アリーナ | |
 <!-- 2025/10/28 | HIGHPINE女子寮〜ハロウィン放送をイベントしちゃいます〜 | LOFT9 Shibuya | |
 2025/10/29 | FANCLUB UNDERWORLD 6 | Zepp Haneda | 夜公演 | 
-2025/10/23 | YUZU LIVE 2025 GET BACK トビラ | 有明アリーナ | |
+2025/11/16 | IDOL STAR FESTIV@L 15 | 東京流通センター 第一展示場 | 即売会 |
 2025/11/29 | 角元明日香のせまいところで秋祭り2025 | 高円寺Studio K | |
 2025/12/28・29・31 | みなとみらいロマンスポルノ THE OVER | ぴあアリーナMM | | -->

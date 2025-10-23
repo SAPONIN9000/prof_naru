@@ -171,6 +171,7 @@ params:
       #     Venue: "西日本メッセ(西日本総合展示場)新館"
       #     url: "https://idolmaster-official.jp/live_event/million11th/"
       #     at: "両日参加"
+      #     type: ライブ
       - title: >-
           THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-4 MILLION THE@TER!!!! 
         date: "2024/2/24・2/25"
