@@ -158,18 +158,33 @@ params:
         url: "https://idolmaster-official.jp/live_event/million12th/"
         at: "両日参加"
         type: ライブ
+      - title: >-
+          THE IDOLM@STER M@STERS OF IDOL WORLD 2025
+        date: "2025/12/13・12/14"
+        Venue: "京セラドーム大阪"
+        url: "https://idolmaster-official.jp/live_event/idolworld2025/"
+        at: "両日参加"
+        type: ライブ
       # - title: >-
-      #     THE IDOLM@STER M@STERS OF IDOL WORLD 2025
-      #   date: "2025/12/13・12/14"
-      #   Venue: "京セラドーム大阪"
-      #   url: "https://idolmaster-official.jp/live_event/idolworld2025/"
-      #   at: "両日参加"
-      #   type: ライブ
+      #     如月千早武道館単独公演「OathONE」
+      #     date: "2026/1/24・1/25"
+      #     Venue: "日本武道館"
+      #     url: "https://idolmaster-official.jp/live_event/oath_one/"
+      #     at: "両日参加"
+      #     type: ライブ
+
       # - title: >-
       #     THE IDOLM@STER MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!/DAY2 百合咲き誇るレムリア
       #     date: "2026/3/14・3/15"
       #     Venue: "西日本メッセ(西日本総合展示場)新館"
       #     url: "https://idolmaster-official.jp/live_event/million11th/"
+      #     at: "両日参加"
+      #     type: ライブ
+      # - title: >-
+      #     THE IDOLM@STER MILLION LIVE! 13thLIVE DAY1 ???/DAY2 ???
+      #     date: "2026/5/5・5/6"
+      #     Venue: "有明アリーナ"
+      #     url: "https://idolmaster-official.jp/live_event/million13th/"
       #     at: "両日参加"
       #     type: ライブ
       - title: >-
