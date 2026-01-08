@@ -175,13 +175,13 @@ params:
         at: "両日参加"
         type: ライブ
 
-      - title: >-
-          THE IDOLM@STER MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!/DAY2 百合咲き誇るレムリア
-        date: "2026/3/14・3/15"
-        Venue: "西日本メッセ(西日本総合展示場)新館"
-        url: "https://idolmaster-official.jp/live_event/million11th/"
-        at: "両日参加"
-        type: ライブ
+      # - title: >-
+      #     THE IDOLM@STER MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!/DAY2 百合咲き誇るレムリア
+      #   date: "2026/3/14・3/15"
+      #   Venue: "西日本メッセ(西日本総合展示場)新館"
+      #   url: "https://idolmaster-official.jp/live_event/million11th/"
+      #   at: "両日参加"
+      #   type: ライブ
       # - title: >-
       #     THE IDOLM@STER MILLION LIVE! 13thLIVE DAY1 ???/DAY2 ???
       #     date: "2026/5/5・5/6"
