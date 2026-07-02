@@ -10,9 +10,10 @@
     <div class="panel overflow-hidden px-2 ml-2">
       {{ range $.Site.Params.publication.list }}
         {{ if eq .type $type.title }}
+          {{ $item := . }}
           <p class="foo indent-8">
             {{ range $.Site.Params.publication.format }}
-              {{ partial "accordion/supportingPartials/addTitle" (dict "all" $ .) }}
+              {{ partial "accordion/supportingPartials/addTitle" (dict "all" $item "ind" .) }}
             {{ end }}
           </p>
         {{ end }}
