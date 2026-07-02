@@ -1,14 +1,15 @@
 {{ range .Site.Params.publication.types }}
+{{ $type := . }}
 <div class="accordion-group">
   <div class="px-2">
-    <h2 class="accordion{{ if .expand }} active{{ end }}">
+    <h2 class="accordion{{ if $type.expand }} active{{ end }}">
       <p onclick="expandAccordion(this)" style="cursor:pointer">
-        <i class="{{ .icon }}"></i> {{ .title }}
+        <i class="{{ $type.icon }}"></i> {{ $type.title }}
       </p>
     </h2>
     <div class="panel overflow-hidden px-2 ml-2">
       {{ range $.Site.Params.publication.list }}
-        {{ if eq .type $.title }}
+        {{ if eq .type $type.title }}
           <p class="foo indent-8">
             {{ range $.Site.Params.publication.format }}
               {{ partial "accordion/supportingPartials/addTitle" (dict "all" $ .) }}
