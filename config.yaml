@@ -118,136 +118,120 @@ params:
       - Venue
       - at
     types:
-      - ライブ
-      - ライブ(2024年)
-      - ライブ(2025年)
-      - イベント
-      - イベント(2024年)
-      - イベント(2025年)
+      - title: ライブ
+        icon: fas fa-music
+        expand: true
+      - title: ライブ(2024年)
+        icon: fas fa-music
+      - title: ライブ(2025年)
+        icon: fas fa-music
+      - title: イベント
+        icon: fas fa-calendar
     list:
-      - title: >-
-          THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! 2
+      - title: "THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! 2"
         date: "2025/3/29・3/30"
         Venue: "さいたまスーパーアリーナ"
         url: "https://idolmaster-official.jp/live_event/hpf2/"
         at: 両日参加
         type: ライブ(2025年)
-      - title: >-
-          リスアニ！LIVE 2025 ナツヤスミ
+      - title: "リスアニ！LIVE 2025 ナツヤスミ"
         date: "2025/7/13"
         Venue: "パシフィコ横浜 国立大ホール"
         url: "https://www.lisani.jp/live-special/"
         at: "SUNDAY STAGE参加"
         type: ライブ(2025年)
-      - title: >-
-          THE IDOLM@STER 20th anniversary ORCHESTRA CONCERT SYMPHONY OF BRILLIANT STARS
+      - title: "THE IDOLM@STER 20th anniversary ORCHESTRA CONCERT SYMPHONY OF BRILLIANT STARS"
         date: "2025/7/21"
         Venue: "パシフィコ横浜 国立大ホール"
         url: "https://idolmaster-official.jp/live_event/orchestra_concert_2025/#news_20250116"
         at: "昼公演配信・夜公演現地参加"
         type: ライブ(2025年)
-      - title: >-
-          THE IDOLM@STER 765PRO ALLSTARS LIVE ～NEVER END IDOL!!!!!!!!!!!!!～
+      - title: "THE IDOLM@STER 765PRO ALLSTARS LIVE ～NEVER END IDOL!!!!!!!!!!!!!～"
         date: "2025/8/2・8/3"
         Venue: "Kアリーナ横浜"
         url: "https://idolmaster-official.jp/live_event/765_never_end_idol/"
         at: "両日参加"
         type: ライブ(2025年)
-      - title: >-
-          THE IDOLM@STER MILLION LIVE! 12thLIVE DAY1 ありのままに。/DAY2 Let’s Sing!
+      - title: "THE IDOLM@STER MILLION LIVE! 12thLIVE DAY1 ありのままに。/DAY2 Let’s Sing!"
         date: "2025/10/11・10/12"
         Venue: "京王アリーナTOKYO(武蔵野の森スポーツプラザ)"
         url: "https://idolmaster-official.jp/live_event/million12th/"
         at: "両日参加"
         type: ライブ(2025年)
-      - title: >-
-          THE IDOLM@STER M@STERS OF IDOL WORLD 2025
+      - title: "THE IDOLM@STER M@STERS OF IDOL WORLD 2025"
         date: "2025/12/13・12/14"
         Venue: "京セラドーム大阪"
         url: "https://idolmaster-official.jp/live_event/idolworld2025/"
         at: "両日参加"
         type: ライブ(2025年)
-      - title: >-
-          如月千早武道館単独公演「OathONE」
+      - title: "如月千早武道館単独公演「OathONE」"
         date: "2026/1/24・1/25"
         Venue: "日本武道館"
         url: "https://idolmaster-official.jp/live_event/oath_one/"
         at: "両日参加"
         type: ライブ
-      - title: >-
-          THE IDOLM@STER MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!/DAY2 百合咲き誇るレムリア
+      - title: "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!/DAY2 百合咲き誇るレムリア"
         date: "2026/3/14・3/15"
         Venue: "西日本メッセ(西日本総合展示場)新館"
         url: "https://idolmaster-official.jp/live_event/million11th/"
         at: "両日参加"
         type: ライブ
-      - title: >-
-          THE IDOLM@STER MILLION LIVE! 13thLIVE DAY1 全力援走 /DAY2 Grand bal masqué
-          date: "2026/5/5・5/6"
-          Venue: "有明アリーナ"
-          url: "https://idolmaster-official.jp/live_event/million13th/"
-          at: "両日参加"
-          type: ライブ
-      - title: >-
-          THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-4 MILLION THE@TER!!!! 
+      - title: "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY1 全力援走 /DAY2 Grand bal masqué"
+        date: "2026/5/5・5/6"
+        Venue: "有明アリーナ"
+        url: "https://idolmaster-official.jp/live_event/million13th/"
+        at: "両日参加"
+        type: ライブ
+      - title: "THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-4 MILLION THE@TER!!!! "
         date: "2024/2/24・2/25"
         Venue: "Kアリーナ横浜"
         url: "https://idolmaster-official.jp/live_event/million10th/information/act4.php"
         type: ライブ(2024年)
         at: 両日参加
-      - title: >-
-          M@STER EXPO LIVE SHOWCASE
+      - title: "M@STER EXPO LIVE SHOWCASE"
         date: "2024/12/15"
         Venue: "幕張メッセ 国際展示場 展示ホール 3"
         url: "https://idolmaster-official.jp/live_event/master_expo/area/live.php"
         type: ライブ(2024年)
         at: MILLION STAGE 観覧
-      - title: >-
-          THE IDOLM@STER MILLION RADIO! SPECIAL PARTY 06
+      - title: "THE IDOLM@STER MILLION RADIO! SPECIAL PARTY 06"
         date: "2025/6/15"
         Venue: "立川ステージガーデン"
         type: イベント(2025年)
         at: 昼の部・夜の部
-      - title: >-
-          THE IDOLM@STER 20th anniversary special party アイ MUST GO ON!! これからもアイマスですよ！20th特別生配信
+      - title: "THE IDOLM@STER 20th anniversary special party アイ MUST GO ON!! これからもアイマスですよ！20th特別生配信"
         date: "2025/7/26"
         Venue: "森のホール21(松戸市文化会館)大ホール"
         url: "https://idolmaster-official.jp/live_event/20th_anniversary_event/"
         type: イベント(2025年)
         at: 現地観覧参加
-      - title: >-
-          THE IDOLM@STER MOVEMENT STARDOM ROAD THE@TER 07-10 購入者限定リリースイベント
+      - title: "THE IDOLM@STER MOVEMENT STARDOM ROAD THE@TER 07-10 購入者限定リリースイベント"
         date: "2025/8/31"
         Venue: "都内某所"
         type: イベント(2025年)
         at: 夜の部
-      - title: >-
-          THE IDOLM@STER MILLION C@STING 01 解夏傀儡 & 02 エンダーエンダー購入者限定合同朗読イベント
+      - title: "THE IDOLM@STER MILLION C@STING 01 解夏傀儡 & 02 エンダーエンダー購入者限定合同朗読イベント"
         date: "2024/5/5"
         Venue: "都内某所"
         type: イベント(2024年)
         at: 夜の部
-      - title: >-
-          THE IDOLM@STER MILLION RADIO! SPECIAL PARTY 05
+      - title: "THE IDOLM@STER MILLION RADIO! SPECIAL PARTY 05"
         date: "2024/5/12"
         Venue: "森のホール21(松戸市文化会館)大ホール"
         type: イベント(2024年)
         at: 昼の部・夜の部
-      - title: >-
-          アイドルマスターミリオンライブ！展 〜Crossing Our MILLION LIKE!〜
+      - title: "アイドルマスターミリオンライブ！展 〜Crossing Our MILLION LIKE!〜"
         date: "2024/8/23～8/25"
         Venue: "横浜産貿ホール マリネリア"
         url: "https://idolmaster-official.jp/live_events/millionlike_1"
         type: イベント(2024年)
         at: 全日
-      - title: >-
-          THE IDOLM@STER MILLION C@STING 03 ミステイク・マーダー！＆04 銀のテーブル木苺ジャム 購入者限定合同朗読イベント
+      - title: "THE IDOLM@STER MILLION C@STING 03 ミステイク・マーダー！＆04 銀のテーブル木苺ジャム 購入者限定合同朗読イベント"
         date: "2024/9/22"
         Venue: 関東某所
         type: イベント(2024年)
         at: 昼の部・夜の部
-      - title: >-
-          THE IDOLM@STER M@STER EXPO
+      - title: "THE IDOLM@STER M@STER EXPO"
         date: "2024/12/14・12/15"
         Venue: "幕張メッセ 国際展示場 展示ホール 1～2"
         url: "https://idolmaster-official.jp/live_event/master_expo/"

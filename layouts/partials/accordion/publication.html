@@ -1,27 +1,22 @@
-{{ if .Site.Params.publication.types }}
-{{ range.Site.Params.publication.types }}
-{{ $type := . }}
-<h4 style="text-decoration: underline;">{{ $type }}</h4>
-{{- range $.Site.Params.publication.list -}}
-{{ if eq $type .type }}
-{{- $this_publication := . -}}
-<p class="foo indent-8">
-  {{- range $.Site.Params.publication.format -}}
-  {{- partial "accordion/supportingPartials/addTitle" (dict "all" $this_publication "ind" .) -}}
-  {{- end -}}
-</p>
-{{ end }}
-{{- end -}}
-{{ end }}
-
-{{ else }}
-
-{{- range $.Site.Params.publication.list -}}
-{{- $this_publication := . -}}
-<p class="bar -indent-8">
-  {{- range $.Site.Params.publication.format -}}
-  {{- partial "accordion/supportingPartials/addTitle" (dict "all" $this_publication "ind" .) -}}
-  {{- end -}}
-</p>
-{{ end }}
+{{ range .Site.Params.publication.types }}
+<div class="accordion-group">
+  <div class="px-2">
+    <h2 class="accordion">
+      <p onclick="expandAccordion(this)" style="cursor:pointer">
+        <i class="{{ .icon }}"></i> {{ .title }}
+      </p>
+    </h2>
+    <div class="panel overflow-hidden px-2 ml-2">
+      {{ range $.Site.Params.publication.list }}
+        {{ if eq .type $.title }}
+          <p class="foo indent-8">
+            {{ range $.Site.Params.publication.format }}
+              {{ partial "accordion/supportingPartials/addTitle" (dict "all" $ .) }}
+            {{ end }}
+          </p>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</div>
 {{ end }}
