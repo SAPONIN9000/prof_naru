@@ -13,6 +13,7 @@
     {{ partial "footer" . }}
   </div>
   <div class="col-span-3 relative">
+    <div class="accordion-group">
     {{ range .Site.Params.showInAccordion }}
     <div class="px-2">
       <h2 class="accordion {{- if .expand }} active {{- end }}">
@@ -37,6 +38,7 @@
       </div>
     </div>
     {{ end }}
+    </div>
 
     <script src="{{ `js/accordion.js` | relURL }}"></script>
   </div>

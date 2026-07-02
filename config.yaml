@@ -73,7 +73,7 @@ params:
         dates: 2023/9/20 - *なるみき 8RLKRF8Q* ![名刺](images/ml_meishi.jpg)
         details: |1-
           - 同僚追加お気軽にどうぞ！
-      - position: イベント実績(一部)
+      - position: イベント実績(2023年～)
         details: |2-
           - 2023/10/18 - 10/25 · 解夏傀儡 [1771位]
           - 2023/12/16 - 12/24 · ＃年末上々★はぴやばギャルPARTY↑↑～ [1506位]
@@ -174,7 +174,6 @@ params:
         url: "https://idolmaster-official.jp/live_event/oath_one/"
         at: "両日参加"
         type: ライブ
-
       - title: >-
           THE IDOLM@STER MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!/DAY2 百合咲き誇るレムリア
         date: "2026/3/14・3/15"

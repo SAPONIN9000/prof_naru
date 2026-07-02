@@ -3,6 +3,7 @@
   <h1 class="standard {{ if eq .Kind `term` }}font-italic{{ end }}">
     {{ if eq .Kind "term" }}#{{ end }}{{- .Title -}}
   </h1>
+  <div class="accordion-group">
   {{ range $key, $val := (.Paginator 10).Pages }}
   <div class="">
     <div
@@ -24,6 +25,7 @@
     </div>
   </div>
   {{ end }}
+  </div>
 </div>
 <script src="{{ `js/accordion.js` | relURL }}"></script>
 <div class="my-6 flex justify-center pagination-links">
