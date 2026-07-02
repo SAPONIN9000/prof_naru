@@ -123,10 +123,13 @@ params:
         expand: true
       - title: ライブ(2024年)
         icon: fas fa-music
+        expand: false
       - title: ライブ(2025年)
         icon: fas fa-music
+        expand: false
       - title: イベント
         icon: fas fa-calendar
+        expand: false
     list:
       - title: "THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! 2"
         date: "2025/3/29・3/30"

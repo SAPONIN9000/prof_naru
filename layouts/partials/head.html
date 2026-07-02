@@ -88,19 +88,23 @@
     window.onload = () => {
       fixThemeToggleIcon(theme);
 
-      let defaultActivePanel = document.querySelector(".accordion.active");
-      if (defaultActivePanel) {
-        defaultActivePanel.nextElementSibling.style.maxHeight =
-          defaultActivePanel.nextElementSibling.scrollHeight + "px";
-      }
+      const activePanels = document.querySelectorAll(".accordion.active");
+      activePanels.forEach((header) => {
+        const panel = header.nextElementSibling;
+        if (panel) {
+          panel.style.maxHeight = panel.scrollHeight + "px";
+        }
+      });
     };
 
     window.onresize = () => {
-      let defaultActivePanel = document.querySelector(".accordion.active");
-      if (defaultActivePanel) {
-        defaultActivePanel.nextElementSibling.style.maxHeight =
-          defaultActivePanel.nextElementSibling.scrollHeight + "px";
-      }
+      const activePanels = document.querySelectorAll(".accordion.active");
+      activePanels.forEach((header) => {
+        const panel = header.nextElementSibling;
+        if (panel) {
+          panel.style.maxHeight = panel.scrollHeight + "px";
+        }
+      });
     };
   </script>
 </head>

@@ -1,7 +1,7 @@
 {{ range .Site.Params.publication.types }}
 <div class="accordion-group">
   <div class="px-2">
-    <h2 class="accordion">
+    <h2 class="accordion{{ if .expand }} active{{ end }}">
       <p onclick="expandAccordion(this)" style="cursor:pointer">
         <i class="{{ .icon }}"></i> {{ .title }}
       </p>
